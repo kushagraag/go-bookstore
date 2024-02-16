@@ -1,4 +1,4 @@
-module github.com/kushagraag/go-bookstore
+module github.com/kushagraag/golang-bookstore
 
 go 1.18
 

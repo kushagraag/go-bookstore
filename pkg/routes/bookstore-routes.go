@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/gorilla/mux"
-	"github.com/kushagraag/go-bookstore/pkg/controllers"
+	"github.com/kushagraag/golang-bookstore/pkg/controllers"
 )
 
 var RegisterBookStoreRoutes = func(router *mux.Router) {
